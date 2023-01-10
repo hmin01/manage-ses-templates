@@ -1,0 +1,4 @@
+{
+  "name": "RequestApproval",
+  "subject": "[Plip] {{name}}님이 회사 가입 승인을 요청했어요!"
+}
